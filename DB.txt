@@ -1,0 +1,13 @@
+First.Mohamed
+Last.Ali
+ID.BW1234
+AC.12345
+AT.Vehicle
+AC.200DH
+
+First.Layla
+Last.Warde
+ID.BW5678
+AC.67890
+AT.Maison
+AC.1000DH
